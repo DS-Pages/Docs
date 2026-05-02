@@ -18,31 +18,35 @@
 ## 📸 界面展示
 
 ::: details 🏠 家管理界面
-![HOMEFORM](https://img.fastmirror.net/s/2024/06/11/6668011935ed8.png)
+![HOME_FORM](https://img.fastmirror.net/s/2026/05/02/69f5a8819359d.jpg)
 :::
 
 ::: details ✈️ 请求传送界面
-![TPAFORM](https://img.fastmirror.net/s/2023/12/09/65747a6272bd2.jpg)
+![RECEIVE_TPA_FORM](https://img.fastmirror.net/s/2026/05/02/69f5a92166047.jpg)
 :::
 
 ::: details 🤝 邀请传送界面
-![TPAHEREFORM](https://img.fastmirror.net/s/2023/12/09/65747a664c387.jpg)
+![RECEIVE_TPAHERE_FORM](https://img.fastmirror.net/s/2026/05/02/69f5a92e398a9.jpg)
 :::
 
 ::: details ⚡ 直接传送界面
-![TPFORM](https://img.fastmirror.net/s/2024/06/11/6668173a6185b.png)
+![TPA_FORM](https://img.fastmirror.net/s/2026/05/02/69f5a93e01ed8.jpg)
+:::
+
+::: details 📍 传送点界面
+![WARP_FORM](https://img.fastmirror.net/s/2026/05/02/69f5ac08422ee.jpg)
 :::
 
 ::: details 💬 私聊界面
-![MSGFORM](https://img.fastmirror.net/s/2024/06/11/6668173b46e99.png)
+![MSG_FORM](https://img.fastmirror.net/s/2026/05/02/69f5a95f36585.jpg)
 :::
 
-::: details ↩️ 返回上一点
-![BACKFORM](https://img.fastmirror.net/s/2024/06/11/6668173a0ef47.png)
+::: details ↩️ 返回最后死亡点界面
+![BACK_FORM](https://img.fastmirror.net/s/2026/05/02/69f5a96c31884.jpg)
 :::
 
 ::: details 🎁 礼包系统界面
-![KITFORM](NONE)
+![KIT_FORM](https://img.fastmirror.net/s/2026/05/02/69f5a97c54f0b.jpg)
 :::
 
 ## 🛠️ 运行环境

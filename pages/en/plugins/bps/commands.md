@@ -5,20 +5,18 @@ Here is a list of all available commands and their corresponding permission node
 ## 👥 Player Commands
 
 ::: tip Default Permissions
-Regular players **already have** permissions for all the following form commands **by default**. Server owners usually do not need to configure them additionally in permission plugins (like LuckPerms).
+Players **already have** permissions for all the following form commands **by default**. Server owners usually do not need to configure them additionally in permission plugins (like LuckPerms).
 :::
 
 | Feature              | Command            | Permission Node                         |                              GUI Preview                               |
 | :------------------- | :----------------- | :-------------------------------------- | :--------------------------------------------------------------------: |
-| **Teleport Form**    | `/tpgui`           | `bedrockplayersupport.command.tpgui`    | [🖼️ Preview](https://img.fastmirror.net/s/2024/06/11/6668173a6185b.png) |
-| **Home Form**        | `/homegui`         | `bedrockplayersupport.command.homegui`  | [🖼️ Preview](https://img.fastmirror.net/s/2024/06/11/6668011935ed8.png) |
-| **Public Home Form** | `/phomegui`        | `bedrockplayersupport.command.phomegui` |                                   -                                    |
-| **Message Form**     | `/msggui`          | `bedrockplayersupport.command.msggui`   | [🖼️ Preview](https://img.fastmirror.net/s/2024/06/11/6668173b46e99.png) |
-| **Warp Form**        | `/warpgui`         | `bedrockplayersupport.command.warpgui`  | [🖼️ Preview](https://img.fastmirror.net/s/2024/07/30/66a8c986bf98f.png) |
-| **Back/Death Form**  | *(Auto-triggered)* | `bedrockplayersupport.form.backdeath`   | [🖼️ Preview](https://img.fastmirror.net/s/2024/06/11/6668173a0ef47.png) |
-| **Kit Form**         | `/kitgui`          | `bedrockplayersupport.command.kitgui`   |                                   -                                    |
-
----
+| **Teleport Form**    | `/tpgui`           | `bedrockplayersupport.command.tpgui`    | [🖼️ Preview](https://img.fastmirror.net/s/2026/05/02/69f5aa4b0b6b7.jpg) |
+| **Home Form**        | `/homegui`         | `bedrockplayersupport.command.homegui`  | [🖼️ Preview](https://img.fastmirror.net/s/2026/05/02/69f5aa1cd6b27.jpg) |
+| **Public Home Form** | `/phomegui`        | `bedrockplayersupport.command.phomegui` | [🖼️ Preview](https://img.fastmirror.net/s/2026/05/02/69f5abcfc1a2a.jpg) |
+| **Message Form**     | `/msggui`          | `bedrockplayersupport.command.msggui`   | [🖼️ Preview](https://img.fastmirror.net/s/2026/05/02/69f5aa675a5ed.jpg) |
+| **Warp Form**        | `/warpgui`         | `bedrockplayersupport.command.warpgui`  | [🖼️ Preview](https://img.fastmirror.net/s/2026/05/02/69f5ac0ee2bd1.jpg) |
+| **Death Form**       | *(Auto-triggered)* | `bedrockplayersupport.form.backdeath`   | [🖼️ Preview](https://img.fastmirror.net/s/2026/05/02/69f5aa7273499.jpg) |
+| **Kit Form**         | `/kitgui`          | `bedrockplayersupport.command.kitgui`   | [🖼️ Preview](https://img.fastmirror.net/s/2026/05/02/69f5aa7c67326.jpg) |
 
 ## 🛡️ Admin Commands
 
