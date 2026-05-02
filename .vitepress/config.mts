@@ -83,6 +83,10 @@ export default defineConfig({
                   link: "/en/plugins/bps/installation",
                 },
                 {
+                  text: "Config",
+                  link: "/en/plugins/bps/config",
+                },
+                {
                   text: "Commands & Permissions",
                   link: "/en/plugins/bps/commands",
                 },
@@ -125,6 +129,10 @@ export default defineConfig({
                 {
                   text: "安装",
                   link: "/zh/plugins/bps/installation",
+                },
+                {
+                  text: "配置",
+                  link: "/zh/plugins/bps/config",
                 },
                 {
                   text: "命令与权限",
