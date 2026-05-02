@@ -140,4 +140,7 @@ export default defineConfig({
       },
     },
   },
+  sitemap: {
+    hostname: "https://docs.dsnb.cc",
+  },
 });
