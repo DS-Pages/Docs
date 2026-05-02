@@ -2,12 +2,13 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  srcDir: "pages",
+  srcDir: "src",
   cleanUrls: true,
   lastUpdated: true,
 
   title: "DongShaoNB Docs",
   description: "Centralized Documentation",
+  head: [["link", { rel: "icon", href: "/favicon.png" }]],
   themeConfig: {
     search: {
       provider: "local",
